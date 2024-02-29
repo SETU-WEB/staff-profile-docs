@@ -4,7 +4,7 @@
 * [Account](account/README.md)
   * [Image options](account/image-options.md)
   * [Edit an image](account/edit-an-image.md)
-* [Details](details.md)
+* [Details](profile.md)
 * [Location](location.md)
 * [Biography](biography.md)
 * [Teaching](teaching.md)
