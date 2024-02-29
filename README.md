@@ -14,4 +14,4 @@ Your staff profile is more than just a bio; it's your professional story. We bel
 
 
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Details tab </td><td><a href="profile.md">profile.md</a></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Details tab </td><td><a href="details-tab.md">details-tab.md</a></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
