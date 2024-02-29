@@ -10,7 +10,7 @@ There are options here to flip or the rotate the image. That won't be necessary 
 
 This is useful to resize images, especially images that are too wide , Under the crop options there a number of preset sizes you can use&#x20;
 
-<figure><img src="../.gitbook/assets/image-oprions (1).png" alt=""><figcaption><p>clikc to enlarge </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-oprions (1).png" alt=""><figcaption><p>click to enlarge </p></figcaption></figure>
 
 
 
@@ -24,4 +24,5 @@ If you need to adjust the image you can drag the crop box to a size that suits y
 
 
 
-<figure><img src="../.gitbook/assets/staff-image-edit.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/staff-image-edit.gif" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
+
