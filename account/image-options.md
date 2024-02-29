@@ -6,5 +6,5 @@ Once you have uploaded an image you will have two options,
 * Delete photo - Remove the photo completely
 * Edit the image - Make changes to the image
 
-<figure><img src="../.gitbook/assets/image-oprions.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-oprions.png" alt=""><figcaption><p>clikc to enlarge</p></figcaption></figure>
 

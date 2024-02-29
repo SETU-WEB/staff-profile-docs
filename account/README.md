@@ -1,6 +1,6 @@
 # Account
 
-{% hint style="info" %}
+{% hint style="success" %}
 As you are using a Microsoft account to login all account fields except for photo are hidden for you&#x20;
 {% endhint %}
 
@@ -12,7 +12,7 @@ The photo filed is the picture that will appear on you staff profile and on your
 
 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 &#x20;The image must be.jpg or .png file type&#x20;
 
 &#x20; Not be larger than 9 megabytes (9MB)
@@ -20,5 +20,5 @@ The photo filed is the picture that will appear on you staff profile and on your
 &#x20;If the image is too small the quality will be poor it will be stretched and distorted.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image upload.gif" alt=""><figcaption><p>How to upload your photo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image upload.gif" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 

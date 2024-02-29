@@ -4,8 +4,24 @@ When you click edit an image you open up a window with lots of several options&#
 
 ### &#x20;Rotate image&#x20;
 
-There are optios here to flip or the rotate the image. The wonr be nexeassry for most images so you can igonore this section&#x20;
+There are options here to flip or the rotate the image. That won't be necessary for vast majority of images&#x20;
 
 ### Crop image&#x20;
 
-This is usefule to re
+This is useful to resize images, especially images that are too wide , Under the crop options there a number of preset sizes you can use&#x20;
+
+<figure><img src="../.gitbook/assets/image-oprions (1).png" alt=""><figcaption><p>clikc to enlarge </p></figcaption></figure>
+
+
+
+{% hint style="info" %}
+We recommend that you use the square preset option for profile images .
+{% endhint %}
+
+{% hint style="success" %}
+If you need to adjust the image you can drag the crop box to a size that suits you&#x20;
+{% endhint %}
+
+
+
+<figure><img src="../.gitbook/assets/staff-image-edit.gif" alt=""><figcaption></figcaption></figure>
