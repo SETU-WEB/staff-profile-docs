@@ -8,7 +8,7 @@ As you are using a Microsoft account to login all account fields except for phot
 
 The photo filed is the picture that will appear on you staff profile and on your staff card wherever it is used across the site. We recommend you use a passport style picture&#x20;
 
-<figure><img src=".gitbook/assets/staff-photo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/staff-photo.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,5 +20,5 @@ The photo filed is the picture that will appear on you staff profile and on your
 &#x20;If the image is too small the quality will be poor it will be stretched and distorted.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image upload.gif" alt=""><figcaption><p>How to upload your photo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image upload.gif" alt=""><figcaption><p>How to upload your photo</p></figcaption></figure>
 
