@@ -50,6 +50,6 @@ This functionality allows for direct HTML input on the page, simplifying the emb
 
 ### Undo and redo&#x20;
 
-<figure><img src=".gitbook/assets/undo.png" alt=""><figcaption></figcaption></figure>
-
 This feature enables you to undo and redo any changes you have made to the content of the text box.
+
+<figure><img src=".gitbook/assets/undo.png" alt=""><figcaption></figcaption></figure>
