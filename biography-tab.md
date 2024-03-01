@@ -24,6 +24,8 @@ Standard bold and Italic options&#x20;
 
 You have the option to incorporate bullet points or numbered lists into your text, and there are various styles available for each type.
 
+<figure><img src=".gitbook/assets/staff-lists.gif" alt=""><figcaption></figcaption></figure>
+
 ### Links&#x20;
 
 You can choose to link either to a page within the SETU website or to an external URL.
