@@ -47,3 +47,9 @@ This functionality allows for direct HTML input on the page, simplifying the emb
 
 
 <figure><img src=".gitbook/assets/staff-embed.gif" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
+
+### Undo and redo&#x20;
+
+<figure><img src=".gitbook/assets/undo.png" alt=""><figcaption></figcaption></figure>
+
+This feature enables you to undo and redo any changes you have made to the content of the text box.
