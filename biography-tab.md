@@ -30,6 +30,8 @@ You have the option to incorporate bullet points or numbered lists into your tex
 
 You can choose to link either to a page within the SETU website or to an external URL.
 
+<figure><img src=".gitbook/assets/staff-links.gif" alt=""><figcaption></figcaption></figure>
+
 ### Block quote&#x20;
 
 The feature enables us to format a piece of text in a block quote style.
