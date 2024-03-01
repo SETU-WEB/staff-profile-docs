@@ -36,3 +36,6 @@ You can choose to link either to a page within the SETU website or to an externa
 
 The feature enables us to format a piece of text in a block quote style.
 
+
+
+<figure><img src=".gitbook/assets/staff-blockquote.gif" alt=""><figcaption></figcaption></figure>
