@@ -39,3 +39,8 @@ The feature enables us to format a piece of text in a block quote style.
 
 
 <figure><img src=".gitbook/assets/staff-blockquote.gif" alt=""><figcaption></figcaption></figure>
+
+### HTML option&#x20;
+
+This feature enables direct HTML input into the page, facilitating the embedding of various iframe such as YouTube videos, flippybooks, forms, or any other service compatible with iframes.
+
