@@ -42,5 +42,5 @@ The feature enables us to format a piece of text in a block quote style.
 
 ### HTML option&#x20;
 
-This feature enables direct HTML input into the page, facilitating the embedding of various iframe such as YouTube videos, flippybooks, forms, or any other service compatible with iframes.
+This functionality allows for direct HTML input on the page, simplifying the embedding of various iframes like YouTube videos, flippybooks, forms, or other services compatible with iframes.
 
