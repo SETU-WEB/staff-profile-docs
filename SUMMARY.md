@@ -8,6 +8,7 @@
 * [Location tab](location-tab.md)
 * [Biography tab](biography-tab.md)
 * [Teaching tab](teaching-tab.md)
+* [Professional tab](professional-tab.md)
 * [Reseach tab](reseach-tab.md)
 * [Custom section 1](custom-section-1.md)
 * [Custom section 2](custom-section-2.md)
