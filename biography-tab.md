@@ -44,3 +44,6 @@ The feature enables us to format a piece of text in a block quote style.
 
 This functionality allows for direct HTML input on the page, simplifying the embedding of various iframes like YouTube videos, flippybooks, forms, or other services compatible with iframes.
 
+
+
+<figure><img src=".gitbook/assets/staff-embed.gif" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
