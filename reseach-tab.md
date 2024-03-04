@@ -33,3 +33,5 @@ These four text fields correspond to the tabs that were present on researcher pr
 {% hint style="warning" %}
 Waterford staff can use these fields if they wish as there is no reference to Carlow/Wexford in the accordion in the frontend&#x20;
 {% endhint %}
+
+<figure><img src=".gitbook/assets/research-carlow.png" alt=""><figcaption></figcaption></figure>
