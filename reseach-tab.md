@@ -20,7 +20,7 @@ Research gate and Pure profile fields require valid URLs. Attempting to save wit
 The Walton link feature adds a hyperlink to your Walton profile on the walton.ie site . Once again, it necessitates a valid URL.
 {% endhint %}
 
-### Reseach group dropdowns&#x20;
+### Research group dropdowns&#x20;
 
 The research group drop downs allow you to choose the research institute, centres or groups you are involved in. We have two options if you require them. If you are active in more than two or your group or centre is missing from the list, please email webmaster.wd@setu.ie.
 
