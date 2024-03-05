@@ -2,6 +2,12 @@
 
 At SETU, we understand the importance of highlighting the talents of our staff members. That's why we've developed a comprehensive Staff Profile Service, designed to help you to curate your own professional identity. With this platform, you have the freedom to personalize your profile with all the essential details that define your life and work
 
+
+
+{% hint style="success" %}
+To edit your staff profile please visit this link [https://www.setu.ie/staffprofile ](https://www.setu.ie/staffprofile)
+{% endhint %}
+
 ### Why create a staff profile
 
 * **Professional Visibility:** Create a strong online presence that reflects your expertise and achievements.
