@@ -13,3 +13,4 @@
 * [Custom section 1](custom-section-1.md)
 * [Custom section 2](custom-section-2.md)
 * [Preferences](preferences.md)
+* [Contact Us](contact-us.md)
