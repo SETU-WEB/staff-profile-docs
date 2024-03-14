@@ -19,9 +19,12 @@ Users with an existing staff profile will not see this field
 * Your name with hyphens instead of spaces or dots , you can follow the format of your email address, so you have a unique URL
 * For example, if your email is joe.bloggs@setu use joe-bloggs as your URL&#x20;
 * The same format would apply if you have a double barrelled or tripled barrelled name e.g. joe.philip.bloggs@setu.ie use  joe-phillip-bloggs as your URL
-* The profile URL field will only be available to change for one week after you create your account. After that, you will have no access to the field.
 * Once you have added a profile URL and clicked save a new "View your profile" button will appear at the top of the profile page
 
-<figure><img src=".gitbook/assets/staff-button.png" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
+<figure><img src=".gitbook/assets/staff-button.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The profile URL field will only be available to change for one week after you create your account. After that, you will have no access to the field.
+{% endhint %}
 
 If you have any questions on setting up your new profile please contact webmaster@setu.ie
