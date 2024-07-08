@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to SETU staff profile help](README.md)
-* [New users](new-users.md)
 * [Account](account/README.md)
   * [Image options](account/image-options.md)
   * [Edit an image](account/edit-an-image.md)

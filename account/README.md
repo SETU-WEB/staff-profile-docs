@@ -1,7 +1,7 @@
 # Account
 
 {% hint style="success" %}
-As you are using a Microsoft account to login all account fields except for photo are hidden for you&#x20;
+As you are using a Microsoft account to login you will only be able to edit the photo field on this tab&#x20;
 {% endhint %}
 
 ## Photo Field
