@@ -15,11 +15,11 @@ This is useful to resize images, especially images that are too wide , Under the
 
 
 {% hint style="info" %}
-We recommend that you use the square preset option for profile images .
+&#x20; We recommend that you use the square preset option for profile images .
 {% endhint %}
 
 {% hint style="success" %}
-If you need to adjust the image you can drag the crop box to a size that suits you&#x20;
+&#x20; If you need to adjust the image you can drag the crop box to a size that suits you&#x20;
 {% endhint %}
 
 

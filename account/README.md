@@ -5,7 +5,7 @@ As you are using a Microsoft account to login you will only be able to edit the 
 {% endhint %}
 
 {% hint style="info" %}
-Existing users' information has been transferred from [www.wit.ie](http://www.wit.ie) and www.itcarlow.ie. For new users, logging into the system will automatically create an account with basic details&#x20;
+Existing users' information has been transferred from [www.wit.ie](http://www.wit.ie) and www.itcarlow.ie . For new users, logging into the system will automatically create an account with basic details&#x20;
 {% endhint %}
 
 ## Photo Field
