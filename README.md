@@ -8,6 +8,10 @@ At SETU, we understand the importance of highlighting the talents of our staff m
 To edit your staff profile please visit this link [https://www.setu.ie/staffprofile ](https://www.setu.ie/staffprofile)
 {% endhint %}
 
+{% hint style="danger" %}
+You must login with your @setu.ie  account&#x20;
+{% endhint %}
+
 ### Why create a staff profile
 
 * **Professional Visibility:** Create a strong online presence that reflects your expertise and achievements.
