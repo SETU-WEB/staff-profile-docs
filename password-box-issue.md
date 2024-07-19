@@ -16,7 +16,7 @@ This will bring you to a login page like below  -&#x20;
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/box.png" alt="" width="261"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/box.png" alt="" width="391"><figcaption></figcaption></figure>
 
 </div>
 
