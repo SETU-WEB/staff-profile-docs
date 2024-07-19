@@ -14,3 +14,4 @@
 * [Custom section 2](custom-section-2.md)
 * [Preferences](preferences.md)
 * [Contact Us](contact-us.md)
+* [Password box issue](password-box-issue.md)
