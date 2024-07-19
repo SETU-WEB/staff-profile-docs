@@ -20,7 +20,7 @@ This will bring you to a login page like below  -&#x20;
 
 </div>
 
-{% hint style="info" %}
+{% hint style="success" %}
 Click on the via Microsoft login button , you don't need to put in any other details just click the button&#x20;
 {% endhint %}
 
