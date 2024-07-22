@@ -8,7 +8,7 @@ A small number of users have come across an issue where a password box below app
 
 </div>
 
-To fix this issue to need to log out and login again via the Microsoft link . To sign out sign out of your account click on the button in the top left-hand corner and choose sign out button in the top corner<img src=".gitbook/assets/image.png" alt="" data-size="original">
+To fix this issue to need to log out and login again via the Microsoft link. To sign out sign out of your account click on the button in the top right-hand corner and choose the sign out option&#x20;
 
 This will bring you to a login page like below  -&#x20;
 
@@ -21,6 +21,6 @@ This will bring you to a login page like below  -&#x20;
 </div>
 
 {% hint style="success" %}
-Click on the via Microsoft login button , you don't need to put in any other details just click the button&#x20;
+Click on the via Microsoft login button, you don't need to put in any other details just click the button&#x20;
 {% endhint %}
 
