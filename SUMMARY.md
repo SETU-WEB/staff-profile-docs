@@ -15,3 +15,4 @@
 * [Preferences](preferences.md)
 * [Contact Us](contact-us.md)
 * [Password box issue](password-box-issue.md)
+* [Change log](change-log.md)
