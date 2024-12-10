@@ -17,3 +17,5 @@
   * Research centres or groups fields now have links to their respective websites or webpages.
   * Pure and ResearchGate links now open in a new tab&#x20;
   * &#x20;Bug fix: Campus filter now works on staff search results&#x20;
+  *   Changed the default heading text for courses listings on profiles from " Teaching Course List " to "Teaching Porfolio "
+
