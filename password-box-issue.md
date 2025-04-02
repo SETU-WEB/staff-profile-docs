@@ -1,5 +1,9 @@
 # Password box issue
 
+{% hint style="success" %}
+This is no longer relevant as a recent update has solved this issue&#x20;
+{% endhint %}
+
 A small number of users have come across an issue where a password box below appears when they try save their profile changes and this box won't accept your password&#x20;
 
 <div align="left"><figure><img src=".gitbook/assets/password .png" alt=""><figcaption></figcaption></figure></div>
