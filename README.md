@@ -1,16 +1,8 @@
-# Welcome to SETU staff profile help
+# Welcome to the official SETU CMS Guide
 
-At SETU, we understand the importance of highlighting the talents of our staff members. That's why we've developed a comprehensive Staff Profile Service, designed to help you to curate your own professional identity. With this platform, you have the freedom to personalize your profile with all the essential details that define your life and work
+Welcome to this step-by-step guide on how to use the SETU website’s Content Management System (CMS). Whether you’re updating pages, posting news, or managing resources, this guide will walk you through each feature clearly and simply. By the end, you’ll be confident navigating the platform and keeping our website accurate, engaging, and up to date. Let’s get started!
 
 
-
-{% hint style="success" %}
-To edit your staff profile please visit this link [https://www.setu.ie/staffprofile ](https://www.setu.ie/staffprofile)
-{% endhint %}
-
-{% hint style="danger" %}
-You must login with your @setu.ie  account&#x20;
-{% endhint %}
 
 ### Why create a staff profile
 
