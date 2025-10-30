@@ -1,3 +1,10 @@
+---
+description: >-
+  The dashboard serves as your personalised homepage within the CMS, giving you
+  quick access to the tools and information you use most. Through a range of
+  configurable widgets, you can monitor recent ac
+---
+
 # Dashboard
 
 ## Widgets
