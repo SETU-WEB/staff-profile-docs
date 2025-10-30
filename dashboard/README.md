@@ -30,4 +30,20 @@ The **My Drafts** widget is used to keep any unfinished content visible right on
 
 <div><figure><img src="../.gitbook/assets/Screenshot 2025-10-29 130915.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2025-10-29 130929.png" alt=""><figcaption></figcaption></figure></div>
 
-##
+## Quick Post&#x20;
+
+The **Quick Post** widget is used for creating a fast post or entry in any section of the website without having to fully navigate through the CMS. When setting it up, you can choose whether to post to the Irish or English section of the site, select a category, and give the widget a title. Once saved, you can click the **Create Entry** button, which will open a window on the side of the screen containing all the usual entry features you’re already familiar with. This makes it easier to publish updates quickly while still having access to the standard editing options.&#x20;
+
+<div><figure><img src="../.gitbook/assets/Screenshot 2025-10-30 105708.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2025-10-30 105719.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2025-10-30 105741.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+## Recent Entries&#x20;
+
+The **Recent Entries** widget allows users to quickly view the newest content that has been added to the site. When configuring this widget, you can choose whether to display entries from the English or Irish version of the website, select which section you would like to pull the recent entries from, and set a limit for how many items will appear on the dashboard. This makes it easy to keep track of the latest updates at a glance without browsing through multiple pages in the CMS.&#x20;
+
+<div><figure><img src="../.gitbook/assets/Screenshot 2025-10-30 110244.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2025-10-30 110259.png" alt="" width="155"><figcaption></figcaption></figure></div>
+
+## Retour&#x20;
+
+The **Retour** widget is used for error handling and monitoring recent **404 errors** on the website. This allows users to quickly identify pages that visitors attempted to access but could not be found. When configuring this widget, you can choose how many days of recent 404 activity you’d like displayed on your dashboard. In this example, we’ve selected the last 30 days, making it easier to spot broken links or missing content and address issues promptly to improve the user experience.&#x20;
+
+<div><figure><img src="../.gitbook/assets/Screenshot 2025-10-30 110525.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
