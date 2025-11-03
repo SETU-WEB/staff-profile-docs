@@ -14,3 +14,11 @@ The **All** button dropdown allows users to filter and display specific types of
 * **Trashed** – Recently deleted pages. From here, users can either restore a page or permanently remove it.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-03 115808.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;
+
+## Manual Filtering
+
+Another way to narrow down your results is by **manually adding filters**. In the search bar, click the **filter icon** to open a dropdown menu with various filter options. You can **choose from multiple criteria** and even **stack filters** to refine your search results further and find exactly what you’re looking for.&#x20;
+
+<figure><img src="../../.gitbook/assets/Manual Filter.gif" alt=""><figcaption></figcaption></figure>
