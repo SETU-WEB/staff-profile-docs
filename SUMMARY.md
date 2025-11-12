@@ -25,4 +25,4 @@
     * [Creating and editing content in a Standard Inner Text Block](entries/creating-an-entry/creating-and-editing-content-in-a-standard-inner-text-block/README.md)
       * [Editing Text](entries/creating-an-entry/creating-and-editing-content-in-a-standard-inner-text-block/editing-text.md)
       * [Adding an image - already in the media library](entries/creating-an-entry/creating-and-editing-content-in-a-standard-inner-text-block/adding-an-image-already-in-the-media-library.md)
-      * [Adding an image - already in the media library](entries/creating-an-entry/creating-and-editing-content-in-a-standard-inner-text-block/adding-an-image-already-in-the-media-library-1.md)
+      * [Adding an image - uploading personal files](entries/creating-an-entry/creating-and-editing-content-in-a-standard-inner-text-block/adding-an-image-uploading-personal-files.md)
