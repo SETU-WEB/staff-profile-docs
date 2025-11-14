@@ -53,3 +53,9 @@ The next two buttons are used for creating **bullet points** or **numbered lists
 This button allows you to **create a table** within your text. You can adjust the size of the table by selecting the number of **columns (X)** and **rows (Y)** you want, giving you full control over the table’s structure to suit your content needs.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Tables.gif" alt=""><figcaption></figcaption></figure>
+
+#### HTML Embed&#x20;
+
+HTML embeds allow you to insert custom HTML code directly into your content, giving you greater flexibility and control over what appears on the page. They’re useful for adding interactive elements, external widgets, multimedia, or any specialized content that isn’t supported by the standard editor tools. This lets you enhance your page with more dynamic and customizable features.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-11-14 110402.png" alt=""><figcaption></figcaption></figure>
