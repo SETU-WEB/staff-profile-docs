@@ -28,3 +28,4 @@
       * [Adding an image - uploading personal files](entries/creating-an-entry/creating-and-editing-content-in-a-standard-inner-text-block/adding-an-image-uploading-personal-files.md)
     * [Inner Text Block Left Right](entries/creating-an-entry/inner-text-block-left-right.md)
     * [InnerBlockQuote](entries/creating-an-entry/innerblockquote.md)
+    * [Inner Media Block](entries/creating-an-entry/inner-media-block.md)
