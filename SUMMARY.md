@@ -27,3 +27,4 @@
       * [Adding an image - already in the media library](entries/creating-an-entry/creating-and-editing-content-in-a-standard-inner-text-block/adding-an-image-already-in-the-media-library.md)
       * [Adding an image - uploading personal files](entries/creating-an-entry/creating-and-editing-content-in-a-standard-inner-text-block/adding-an-image-uploading-personal-files.md)
     * [Inner Text Block Left Right](entries/creating-an-entry/inner-text-block-left-right.md)
+    * [InnerBlockQuote](entries/creating-an-entry/innerblockquote.md)
