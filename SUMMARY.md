@@ -29,3 +29,5 @@
     * [Inner Text Block Left Right](entries/creating-an-entry/inner-text-block-left-right.md)
     * [InnerBlockQuote](entries/creating-an-entry/innerblockquote.md)
     * [Inner Media Block](entries/creating-an-entry/inner-media-block.md)
+    * [Inner Download Strip](entries/creating-an-entry/inner-download-strip.md)
+    * [Inner Table Area](entries/creating-an-entry/inner-table-area.md)
