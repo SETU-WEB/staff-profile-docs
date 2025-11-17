@@ -53,4 +53,4 @@ The **Recent Entries** widget allows users to quickly view the newest content th
 
 The **Retour** widget is used for error handling and monitoring recent **404 errors** on the website. This allows users to quickly identify pages that visitors attempted to access but could not be found. When configuring this widget, you can choose how many days of recent 404 activity you’d like displayed on your dashboard. In this example, we’ve selected the last 30 days, making it easier to spot broken links or missing content and address issues promptly to improve the user experience.&#x20;
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2025-10-30 110525.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Screenshot 2025-10-30 110525.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
