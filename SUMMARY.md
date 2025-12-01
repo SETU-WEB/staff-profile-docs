@@ -47,3 +47,4 @@
     * [Inner Custom Staff Listing](entries/creating-an-entry/inner-custom-staff-listing.md)
     * [Inner News Resources](entries/creating-an-entry/inner-news-resources.md)
     * [Inner Events Resources](entries/creating-an-entry/inner-events-resources.md)
+* [Standard Inner Page](standard-inner-page.md)
