@@ -1,3 +1,0 @@
-# Landing Page
-
-A landing page is a high-level, visually focused page designed to introduce key information and guide users toward important sections of a website. Unlike a standard inner page, which is meant for detailed content, a landing page serves as an entry point or overview, often using larger imagery, highlighted messages, and strategic calls to action. Its purpose is to quickly orient visitors, showcase important features or pathways, and help them navigate deeper into the site. Landing pages are typically used for major sections, campaigns, or departments where a strong first impression and clear direction are essential.
