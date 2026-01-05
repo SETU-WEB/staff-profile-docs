@@ -1,8 +1,8 @@
-# Welcome to the official SETU CMS Guide
+# Welcome to the SETU Staff Profile Guide
 
-Welcome to this step-by-step guide on how to use the SETU website’s Content Management System (CMS). Whether you’re updating pages, posting news, or managing resources, this guide will walk you through each feature clearly and simply. By the end, you’ll be confident navigating the platform and keeping our website accurate, engaging, and up to date. Let’s get started!
+This guide is here to support you in creating and maintaining a strong, accurate, and engaging staff profile on the SETU website, a space that represents you professionally to colleagues, students, partners, and the wider public.
 
-
+We’ve developed a **comprehensive Staff Profile Service**, designed to help you curate your professional SETU identity. The platform allows you to personalise your profile with key details about your role, expertise, and experience, ensuring it accurately reflects who you are and the work you do at SETU.
 
 ### Why create a staff profile
 

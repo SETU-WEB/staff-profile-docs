@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the SETU Staff profile Guide](README.md)
+* [Welcome to the SETU Staff Profile Guide](README.md)
 * [Details tab](details-tab.md)
 * [Location tab](location-tab.md)
 * [Biography tab](biography-tab.md)
